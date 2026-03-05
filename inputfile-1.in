@@ -1,0 +1,19 @@
+# Plate parameters
+L 1.0
+N 11
+alpha 1.0
+
+# Time settings
+t_final 10
+dt 0.001
+
+# Initial conditions at any x
+T_init 0.0
+
+# Boundary conditions at any time t
+T_left 1.0
+T_right 0.0
+
+# Output times
+times 0 0.1 0.5 1 2 5 10
+`
